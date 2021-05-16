@@ -1,0 +1,13 @@
+C:\Users\PC-ELHID\Source\Repos\Colas\Colas\bin\Debug\netcoreapp3.1\Colas.exe
+C:\Users\PC-ELHID\Source\Repos\Colas\Colas\bin\Debug\netcoreapp3.1\Colas.deps.json
+C:\Users\PC-ELHID\Source\Repos\Colas\Colas\bin\Debug\netcoreapp3.1\Colas.runtimeconfig.json
+C:\Users\PC-ELHID\Source\Repos\Colas\Colas\bin\Debug\netcoreapp3.1\Colas.runtimeconfig.dev.json
+C:\Users\PC-ELHID\Source\Repos\Colas\Colas\bin\Debug\netcoreapp3.1\Colas.dll
+C:\Users\PC-ELHID\Source\Repos\Colas\Colas\bin\Debug\netcoreapp3.1\Colas.pdb
+C:\Users\PC-ELHID\Source\Repos\Colas\Colas\obj\Debug\netcoreapp3.1\Colas.csprojAssemblyReference.cache
+C:\Users\PC-ELHID\Source\Repos\Colas\Colas\obj\Debug\netcoreapp3.1\Colas.AssemblyInfoInputs.cache
+C:\Users\PC-ELHID\Source\Repos\Colas\Colas\obj\Debug\netcoreapp3.1\Colas.AssemblyInfo.cs
+C:\Users\PC-ELHID\Source\Repos\Colas\Colas\obj\Debug\netcoreapp3.1\Colas.csproj.CoreCompileInputs.cache
+C:\Users\PC-ELHID\Source\Repos\Colas\Colas\obj\Debug\netcoreapp3.1\Colas.dll
+C:\Users\PC-ELHID\Source\Repos\Colas\Colas\obj\Debug\netcoreapp3.1\Colas.pdb
+C:\Users\PC-ELHID\Source\Repos\Colas\Colas\obj\Debug\netcoreapp3.1\Colas.genruntimeconfig.cache
